@@ -9,7 +9,7 @@ const config = {
     apiUrlVerifyForgot: 'https://roadsense-api.vercel.app/verifyforgot',
     apiUrlFeedback: 'https://roadsense-api.vercel.app/feedback',
 
-    apiUrlLobby: 'http://192.168.204.203:3000/lobby',
+    apiUrlLobby: 'https://storycircle.vercel.app/lobby',
     apiUrlJoinRoom: 'https://abhicodes-storycirclestreamapi.hf.space/join-room',
     apiUrlCreateRoom: 'https://abhicodes-storycirclestreamapi.hf.space/create-room',
     apiUrlStartRoom: 'https://abhicodes-storycirclestreamapi.hf.space/start-room',
